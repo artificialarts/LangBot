@@ -21,18 +21,19 @@ Adjusts language modalities
 ```bash
 /language
 ```
-![2](https://github.com/artificialarts/LangBot/assets/145310115/72675197-98ee-4959-a87c-631d2fa3387f)
-
+![6](https://github.com/artificialarts/LangBot/assets/145310115/16ad1cc0-27f3-4872-862e-450085a8e07d)
 
 Change AI model
 ```bash
 /model
 ```
+![5](https://github.com/artificialarts/LangBot/assets/145310115/246a748d-73ae-4fb1-ad51-58ebf01b5eda)
 
 Generate Image
 ```bash
 /image
 ```
+![2](https://github.com/artificialarts/LangBot/assets/145310115/72675197-98ee-4959-a87c-631d2fa3387f)
 
 
 ## Installation
