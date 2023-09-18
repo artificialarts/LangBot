@@ -1,7 +1,7 @@
 # LangBot
 
 ## Overview
-LangChainBot uses language algorithms to assist with various types of communication. It can adapt to different conversational contexts, from casual to formal. It also offers database query and real-time event update features. LangChainBot aims to be a reliable, context-aware tool for your communication needs.
+LangBot is a Discord bot powered by generative AI and offers versatile communication assistance. Similar to Antropic Clyde, it adapts to both casual and formal conversational tones. Featuring database queries via Firebase and real-time event updates, LangBot serves as a reliable, context-aware communication companion.
 
 ## Installation
 
