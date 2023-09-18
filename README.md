@@ -2,6 +2,7 @@
 
 ## Overview
 LangBot is a Discord bot powered by generative AI and offers versatile communication assistance. Similar to Antropic Clyde, it adapts to both casual and formal conversational tones. Featuring database queries via Firebase and real-time event updates, LangBot serves as a reliable, context-aware communication companion.
+
 ![1](https://github.com/artificialarts/LangBot/assets/145310115/6b6cfc30-1faf-4f2c-afaa-d90f0bbfcaf4)
 
 
@@ -43,6 +44,12 @@ To install LangBot, you can clone the repository using the following command:
 
 ```bash
 git clone https://github.com/artificialarts/langbot.git
+```
+
+Install requirements
+
+```bash
+pip install -r requirements.txt
 ```
 
 Setup Firebase database according to file
