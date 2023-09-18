@@ -9,3 +9,22 @@ To install LangBot, you can clone the repository using the following command:
 
 ```bash
 git clone https://github.com/yourusername/langbot.git
+```
+
+To install LangBot, you can clone the repository using the following command:
+
+```bash
+git clone https://github.com/yourusername/langbot.git
+```
+
+To install LangBot, you can clone the repository using the following command:
+
+```bash
+git clone https://github.com/yourusername/langbot.git
+```
+
+To install LangBot, you can clone the repository using the following command:
+
+```bash
+git clone https://github.com/yourusername/langbot.git
+```
