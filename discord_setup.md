@@ -36,5 +36,6 @@ Paste the token into `BOT_TOKEN` variable in  the `.env` file
 
 ![4](https://github.com/artificialarts/LangBot/assets/145310115/65fd08d5-dcd3-423e-a14c-496b7f5990fc)
 
-![8](https://github.com/artificialarts/LangBot/assets/145310115/8f2738d0-f400-4bff-a7de-4c179748d36a)
+![8](https://github.com/artificialarts/LangBot/assets/145310115/52e767a4-2426-4b8e-945d-b121854162c1)
+
 
